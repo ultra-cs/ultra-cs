@@ -5,4 +5,4 @@ I spend most of my time on enumeration, basic web vulnerabilities, and understan
 
 My goal is to build strong fundamentals, document what I learn, and steadily improve my technical skills through consistent practice.
 
-<img src="https://skillicons.dev/icons?i=linux,python,html,css,c,c#,sqlite,git,nmap,metasploit" />
+<img src="https://skillicons.dev/icons?i=linux,python,js,html,css,c,c#,sqlite,git,nmap,metasploit" />
