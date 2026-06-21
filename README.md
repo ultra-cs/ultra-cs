@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a self-driven learner focused on programming and offensive/defensive security. My main interest is finding, understanding, and exploiting vulnerabilities — and building things that hold up under pressure. Currently expanding into blockchain security and containerized environments.
+I'm a self-driven learner focused on programming and offensive/defensive security. My main interest is finding, understanding, and exploiting vulnerabilities — and building things that hold up under pressure. Currently expanding into CI/CD pipelines and containerized environments.
 
 ---
 
@@ -25,8 +25,6 @@ I'm a self-driven learner focused on programming and offensive/defensive securit
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-Beginner-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Beginner-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-Beginner-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-Basic-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-Basic-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,11 +35,11 @@ I'm a self-driven learner focused on programming and offensive/defensive securit
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Web Security](https://img.shields.io/badge/Web_Vulnerabilities-FF0000?style=for-the-badge&logo=hackaday&logoColor=white)
 
-### Currently Learning
+### DevOps & Tooling
 
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Beginner-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Beginner-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Learning-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
