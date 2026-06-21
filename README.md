@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://github.com/Anon-Core/Anon-Core/blob/main/assets/banner2.png" alt="GitHub Banner" width="100%" />
+<img src="https://github.com/ultra-cs/ultra-cs/blob/main/assets/banner.png" alt="Ultra-CS Banner" width="100%" />
 
 <br/>
 
-# ANON
+# ULTRA-CS
 
 **Cyber Security · Development · Continuous Learning**
 
-*Tech fanatic from Iran — obsessed with security, systems, and building things.*
+*Tech fanatic from Iran — building skills at the intersection of security, systems, and code.*
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a self-driven learner focused on programming and security. My main interest is offensive and defensive security, and I've been building practical experience across multiple domains — from web vulnerabilities to blockchain smart contracts. Always experimenting, always improving.
+I'm a self-driven learner focused on programming and offensive/defensive security. My main interest is finding, understanding, and exploiting vulnerabilities — and building things that hold up under pressure. Currently expanding into blockchain security and containerized environments.
 
 ---
 
@@ -49,8 +49,8 @@ I'm a self-driven learner focused on programming and security. My main interest 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anon-Core&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Anon-Core&theme=github-dark&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ultra-cs&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ultra-cs&theme=github-dark&hide_border=true" />
 
 </div>
 
@@ -60,7 +60,7 @@ I'm a self-driven learner focused on programming and security. My main interest 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Anon--Core-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anon-Core)
+[![GitHub](https://img.shields.io/badge/GitHub-ultra--cs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ultra-cs)
 
 </div>
 
